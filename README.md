@@ -1,4 +1,4 @@
-# urun-islemleri
+# simple product manager
 
 > A Vue.js project
 
